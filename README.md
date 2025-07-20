@@ -9,7 +9,7 @@ FocusBloom is a modern Pomodoro timer and productivity app with user authenticat
 - Session analytics and history
 - Beautiful, responsive UI
 
-## Tech Stack
+## Tech Stack 
 
 - **Frontend:** React Native (Expo)
 - **Backend:** Node.js, Express
